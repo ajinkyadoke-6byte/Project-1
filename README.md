@@ -2,6 +2,8 @@
 
 A data analysis project that explores the Netflix titles dataset to uncover trends, patterns, and insights about the platform's content library.
 
+ Google colab Notebook
+ https://raw.githubusercontent.com/ajinkyadoke-6byte/Project-1/refs/heads/main/netflix_titles.csv
 
 ## 📁 Dataset
 
@@ -83,34 +85,6 @@ Key questions answered:
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/netflix-eda.git
-   cd netflix-eda
-   ```
 
-2. Install dependencies:
-   ```bash
-   pip install pandas matplotlib seaborn
-   ```
 
-3. Download the dataset from [Kaggle — Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) and place `netflix_titles.csv` in the project root.
-
-4. Open and run the notebook:
-   ```bash
-   jupyter notebook project_1_.ipynb
-   ```
-
----
-
-## 📊 Dataset Source
-
-[Netflix Movies and TV Shows — Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-
----
-
-## 📄 License
-
-This project is for educational purposes only.
