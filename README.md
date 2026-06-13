@@ -3,7 +3,7 @@
 A data analysis project that explores the Netflix titles dataset to uncover trends, patterns, and insights about the platform's content library.
 
  Google colab Notebook
- https://raw.githubusercontent.com/ajinkyadoke-6byte/Project-1/refs/heads/main/netflix_titles.csv
+https://colab.research.google.com/drive/1EW0elF10qoNUeI4E6S9kZpd2xFfPATkT?usp=sharing
 
 ## 📁 Dataset
 
